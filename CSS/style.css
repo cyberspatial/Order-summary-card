@@ -21,7 +21,6 @@ body {
   background-color: var(--primary-first);
 
   font-family: Red Hat Display;
-  background-size: 100%;
 }
 .attribution {
   font-size: 11px;
@@ -156,7 +155,7 @@ body {
     background-image: url("../images/pattern-background-desktop.svg");
     background-color: var(--primary-first);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100vw 40vh;
   }
 }
 @media only screen and (max-height: 550px) {
